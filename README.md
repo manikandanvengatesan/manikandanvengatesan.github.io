@@ -1,13 +1,15 @@
 ### Hi there 👋
 ### 🔭 I’m currently working on ...
 
-### 💬 Reach me on ...
+### 📫 How to reach me ...
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/manikandan-venkatesan)  
 
 ![image title](https://rushter.com/counter.svg)  
 
 ![image](https://img.shields.io/twitter/follow/mani_kandan1207?style=social)
+
+[![Manikandan Venkatesan's github stats](https://github-readme-stats.vercel.app/api?username=manikandanvengatesan)](https://github.com/manikandanvengatesan/github-readme-stats)
 
 <!--
 **manikandanvengatesan/manikandanvengatesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
