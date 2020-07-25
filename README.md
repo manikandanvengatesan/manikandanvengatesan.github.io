@@ -5,9 +5,9 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/manikandan-venkatesan)  
 
-![image title](https://rushter.com/counter.svg)  
-
 ![image](https://img.shields.io/twitter/follow/mani_kandan1207?style=social)
+
+![image title](https://rushter.com/counter.svg)  
 
 [![Manikandan Venkatesan's github stats](https://github-readme-stats.vercel.app/api?username=manikandanvengatesan)](https://github.com/manikandanvengatesan/github-readme-stats)
 
