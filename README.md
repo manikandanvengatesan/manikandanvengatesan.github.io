@@ -1,12 +1,14 @@
 ### Hi there 👋
-### 🔭 I’m currently working on ...
 
-### 📫 How to reach me ...
+### 🔭 I’m currently working on 
+  ![image](https://img.icons8.com/color/48/000000/javascript.png)![image](https://img.icons8.com/color/48/000000/typescript.png)![image](https://img.icons8.com/color/48/000000/react-native.png)![image](https://img.icons8.com/color/48/000000/npm.png)![image](https://img.icons8.com/color/48/000000/git.png)
 
+### 💬 I have worked on   
+![image](https://img.icons8.com/color/48/000000/ruby-programming-language.png)![image](https://img.icons8.com/color/48/000000/python.png)![image](https://img.icons8.com/officel/40/000000/php-logo.png)
+
+### 📫 You can connect me on 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/manikandan-venkatesan)  
-
 ![image](https://img.shields.io/twitter/follow/mani_kandan1207?style=social)
-
 ![image title](https://rushter.com/counter.svg)  
 
 [![Manikandan Venkatesan's github stats](https://github-readme-stats.vercel.app/api?username=manikandanvengatesan)](https://github.com/manikandanvengatesan/github-readme-stats)
