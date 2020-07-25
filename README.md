@@ -4,7 +4,7 @@
   ![image](https://img.icons8.com/color/48/000000/javascript.png)![image](https://img.icons8.com/color/48/000000/typescript.png)![image](https://img.icons8.com/color/48/000000/react-native.png)![image](https://img.icons8.com/color/48/000000/npm.png)![image](https://img.icons8.com/color/48/000000/git.png)
 
 ### 💬 I have worked on   
-![image](https://img.icons8.com/color/48/000000/ruby-programming-language.png)![image](https://img.icons8.com/color/48/000000/python.png)![image](https://img.icons8.com/officel/40/000000/php-logo.png)
+![image](https://img.icons8.com/color/48/000000/ruby-programming-language.png)![image](https://img.icons8.com/color/48/000000/python.png)![image](https://img.icons8.com/officel/40/000000/php-logo.png) ![image](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png)![image](https://img.icons8.com/color/48/000000/microsoft-sql-server.png)
 
 ### 📫 You can connect me on 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/manikandan-venkatesan)  
