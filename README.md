@@ -1,7 +1,13 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ...
-
+- 
 - 💬 Reach me on ...
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/manikandan-venkatesan)  
+
+![image title](https://rushter.com/counter.svg)  
+
+![image](https://img.shields.io/twitter/follow/mani_kandan1207?style=social)
 
 <!--
 **manikandanvengatesan/manikandanvengatesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
