@@ -11,6 +11,8 @@
 ![image](https://img.shields.io/twitter/follow/mani_kandan1207?style=social)
 ![image title](https://rushter.com/counter.svg)  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandanvengatesan&layout=compact" alt="manikandanvengatesan" /></p>
+
 [![Manikandan Venkatesan's github stats](https://github-readme-stats.vercel.app/api?username=manikandanvengatesan)](https://github.com/manikandanvengatesan/github-readme-stats)
 
 <!--
