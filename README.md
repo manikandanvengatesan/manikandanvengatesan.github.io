@@ -14,12 +14,12 @@
 ![image](https://img.shields.io/twitter/follow/mani_kandan1207?style=social)
 ![image title](https://rushter.com/counter.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandanvengatesan" alt="manikandanvengatesan" /></p>
 
 [![Manikandan Venkatesan's github stats](https://github-readme-stats.vercel.app/api?username=manikandanvengatesan)](https://github.com/manikandanvengatesan/github-readme-stats)
 
 <!--
 **manikandanvengatesan/manikandanvengatesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikandanvengatesan" alt="manikandanvengatesan" /></p>
 
 Here are some ideas to get you started:
 
